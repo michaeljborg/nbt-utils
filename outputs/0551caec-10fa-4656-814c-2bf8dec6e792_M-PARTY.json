@@ -1,0 +1,705 @@
+{
+    "Slot3": {
+        "Tradeable": 1,
+        "PersistentData": {},
+        "Gender": "MALE",
+        "HealingTimer": -1,
+        "Friendship": 59,
+        "GmaxFactor": 0,
+        "CaughtBall": "cobblemon:poke_ball",
+        "ScaleModifier": 1.0,
+        "Features": [
+            {
+                "cobblemon:feature_id": "mega",
+                "mega": 0
+            }
+        ],
+        "FormId": "normal",
+        "UUID": [
+            1190763733,
+            -1446624326,
+            -1834582519,
+            1818371480
+        ],
+        "Shiny": 0,
+        "Species": "cobblemon:gengar",
+        "cobblemon:data_version": 1,
+        "Ability": {
+            "AbilityIndex": 0,
+            "AbilityName": "cursedbody"
+        },
+        "Nature": "cobblemon:timid",
+        "BenchedMoves": [
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "spite"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "hypnosis"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "lick"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "meanlook"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "nightmare"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "shadowpunch"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "curse"
+            }
+        ],
+        "EVs": {
+            "cobblemon:special_attack": 0,
+            "cobblemon:attack": 3,
+            "cobblemon:hp": 0,
+            "cobblemon:defence": 0,
+            "cobblemon:special_defence": 0,
+            "cobblemon:speed": 0
+        },
+        "PokemonOriginalTrainerType": "PLAYER",
+        "Health": 77,
+        "TeraType": "cobblemon:ghost",
+        "MoveSet": [
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "shadowpunch",
+                "MovePP": 20
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "hex",
+                "MovePP": 10
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "confuseray",
+                "MovePP": 10
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "payback",
+                "MovePP": 10
+            }
+        ],
+        "IVs": {
+            "cobblemon:special_attack": 27,
+            "cobblemon:attack": 17,
+            "cobblemon:hp": 13,
+            "cobblemon:defence": 10,
+            "cobblemon:special_defence": 13,
+            "cobblemon:speed": 18
+        },
+        "FaintedTimer": -1,
+        "DmaxLevel": 0,
+        "Evolutions": {
+            "progress": [],
+            "pending": []
+        },
+        "PokemonOriginalTrainer": "0551caec-10fa-4656-814c-2bf8dec6e792",
+        "Experience": 19411,
+        "Level": 29
+    },
+    "Slot5": {
+        "Tradeable": 1,
+        "PersistentData": {},
+        "Gender": "MALE",
+        "HealingTimer": -1,
+        "Friendship": 76,
+        "HeldItem": {
+            "id": "cobblemon:berry_juice",
+            "count": 1
+        },
+        "GmaxFactor": 0,
+        "CaughtBall": "cobblemon:great_ball",
+        "ScaleModifier": 1.0,
+        "Features": [
+            {
+                "galarian": 0,
+                "cobblemon:feature_id": "galarian"
+            }
+        ],
+        "FormId": "normal",
+        "UUID": [
+            647259742,
+            190663030,
+            -1856538105,
+            -1729297640
+        ],
+        "Shiny": 0,
+        "Species": "cobblemon:slowking",
+        "cobblemon:data_version": 1,
+        "Ability": {
+            "AbilityIndex": 1,
+            "AbilityName": "owntempo"
+        },
+        "Nature": "cobblemon:rash",
+        "BenchedMoves": [
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "yawn"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "curse"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "growl"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "tackle"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "disable"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "watergun"
+            }
+        ],
+        "EVs": {
+            "cobblemon:special_attack": 0,
+            "cobblemon:attack": 1,
+            "cobblemon:hp": 2,
+            "cobblemon:defence": 2,
+            "cobblemon:special_defence": 0,
+            "cobblemon:speed": 7
+        },
+        "PokemonOriginalTrainerType": "PLAYER",
+        "Health": 101,
+        "TeraType": "cobblemon:psychic",
+        "MoveSet": [
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "waterpulse",
+                "MovePP": 20
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "powergem",
+                "MovePP": 20
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "headbutt",
+                "MovePP": 15
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "confusion",
+                "MovePP": 25
+            }
+        ],
+        "IVs": {
+            "cobblemon:special_attack": 30,
+            "cobblemon:attack": 9,
+            "cobblemon:hp": 24,
+            "cobblemon:defence": 1,
+            "cobblemon:special_defence": 22,
+            "cobblemon:speed": 17
+        },
+        "FaintedTimer": -1,
+        "DmaxLevel": 0,
+        "Evolutions": {
+            "progress": [],
+            "pending": []
+        },
+        "PokemonOriginalTrainer": "0551caec-10fa-4656-814c-2bf8dec6e792",
+        "Experience": 24389,
+        "Level": 29
+    },
+    "SlotCount": 6,
+    "Slot1": {
+        "Tradeable": 1,
+        "PersistentData": {},
+        "Gender": "MALE",
+        "HealingTimer": -1,
+        "Friendship": 102,
+        "HeldItem": {
+            "id": "cobblemon:berry_juice",
+            "count": 1
+        },
+        "GmaxFactor": 0,
+        "CaughtBall": "cobblemon:poke_ball",
+        "ScaleModifier": 1.0,
+        "FormId": "normal",
+        "UUID": [
+            1292365821,
+            -1379385223,
+            -1505980824,
+            -2135922350
+        ],
+        "Shiny": 0,
+        "Species": "cobblemon:pignite",
+        "cobblemon:data_version": 1,
+        "Ability": {
+            "AbilityIndex": 0,
+            "AbilityName": "blaze"
+        },
+        "Nature": "cobblemon:mild",
+        "BenchedMoves": [
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "tackle"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "endure"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "tailwhip"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "odorsleuth"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "smog"
+            }
+        ],
+        "EVs": {
+            "cobblemon:special_attack": 13,
+            "cobblemon:attack": 10,
+            "cobblemon:hp": 40,
+            "cobblemon:defence": 12,
+            "cobblemon:special_defence": 13,
+            "cobblemon:speed": 44
+        },
+        "PokemonOriginalTrainerType": "PLAYER",
+        "Health": 94,
+        "TeraType": "cobblemon:fire",
+        "MoveSet": [
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "flamecharge",
+                "MovePP": 20
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "ember",
+                "MovePP": 25
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "armthrust",
+                "MovePP": 20
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "defensecurl",
+                "MovePP": 40
+            }
+        ],
+        "IVs": {
+            "cobblemon:special_attack": 21,
+            "cobblemon:attack": 28,
+            "cobblemon:hp": 3,
+            "cobblemon:defence": 2,
+            "cobblemon:special_defence": 29,
+            "cobblemon:speed": 24
+        },
+        "FaintedTimer": -1,
+        "DmaxLevel": 0,
+        "Evolutions": {
+            "progress": [],
+            "pending": []
+        },
+        "PokemonOriginalTrainer": "0551caec-10fa-4656-814c-2bf8dec6e792",
+        "Experience": 19411,
+        "Level": 29
+    },
+    "Slot4": {
+        "Tradeable": 1,
+        "PersistentData": {},
+        "Gender": "MALE",
+        "HealingTimer": -1,
+        "Friendship": 66,
+        "GmaxFactor": 0,
+        "CaughtBall": "cobblemon:ultra_ball",
+        "ScaleModifier": 1.0,
+        "Features": [
+            {
+                "cobblemon:feature_id": "mega",
+                "mega": 0
+            }
+        ],
+        "FormId": "normal",
+        "UUID": [
+            55102245,
+            1136148980,
+            -2095330127,
+            -622269174
+        ],
+        "Shiny": 0,
+        "Species": "cobblemon:lucario",
+        "cobblemon:data_version": 1,
+        "Ability": {
+            "AbilityIndex": 0,
+            "AbilityName": "steadfast"
+        },
+        "Nature": "cobblemon:serious",
+        "BenchedMoves": [
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "calmmind"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "reversal"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "lifedew"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "counter"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "finalgambit"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "aurasphere"
+            }
+        ],
+        "EVs": {
+            "cobblemon:special_attack": 0,
+            "cobblemon:attack": 2,
+            "cobblemon:hp": 60,
+            "cobblemon:defence": 0,
+            "cobblemon:special_defence": 0,
+            "cobblemon:speed": 0
+        },
+        "PokemonOriginalTrainerType": "PLAYER",
+        "Health": 90,
+        "TeraType": "cobblemon:steel",
+        "MoveSet": [
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "metalclaw",
+                "MovePP": 35
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "rocksmash",
+                "MovePP": 15
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "workup",
+                "MovePP": 30
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "forcepalm",
+                "MovePP": 10
+            }
+        ],
+        "IVs": {
+            "cobblemon:special_attack": 11,
+            "cobblemon:attack": 25,
+            "cobblemon:hp": 24,
+            "cobblemon:defence": 25,
+            "cobblemon:special_defence": 25,
+            "cobblemon:speed": 25
+        },
+        "FaintedTimer": -1,
+        "DmaxLevel": 0,
+        "Evolutions": {
+            "progress": [],
+            "pending": []
+        },
+        "PokemonOriginalTrainer": "0551caec-10fa-4656-814c-2bf8dec6e792",
+        "Experience": 19411,
+        "Level": 29
+    },
+    "Slot2": {
+        "Tradeable": 1,
+        "PersistentData": {},
+        "Gender": "FEMALE",
+        "HealingTimer": -1,
+        "Friendship": 159,
+        "MintedNature": "cobblemon:calm",
+        "GmaxFactor": 0,
+        "CaughtBall": "cobblemon:poke_ball",
+        "ScaleModifier": 1.0,
+        "FormId": "normal",
+        "UUID": [
+            -271110511,
+            -22724503,
+            -1792654098,
+            1835374779
+        ],
+        "Shiny": 0,
+        "Species": "cobblemon:umbreon",
+        "cobblemon:data_version": 1,
+        "Ability": {
+            "AbilityIndex": 1,
+            "AbilityName": "synchronize"
+        },
+        "Nature": "cobblemon:sassy",
+        "BenchedMoves": [
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "tailwhip"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "growl"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "pursuit"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "babydolleyes"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "sandattack"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "refresh"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "trumpcard"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "assurance"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "tackle"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "snarl"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "batonpass"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "doubleedge"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "swift"
+            }
+        ],
+        "EVs": {
+            "cobblemon:special_attack": 11,
+            "cobblemon:attack": 0,
+            "cobblemon:hp": 0,
+            "cobblemon:defence": 20,
+            "cobblemon:special_defence": 20,
+            "cobblemon:speed": 10
+        },
+        "PokemonOriginalTrainerType": "PLAYER",
+        "Health": 102,
+        "TeraType": "cobblemon:normal",
+        "MoveSet": [
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "bite",
+                "MovePP": 25
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "quickattack",
+                "MovePP": 30
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "helpinghand",
+                "MovePP": 20
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "covet",
+                "MovePP": 25
+            }
+        ],
+        "IVs": {
+            "cobblemon:special_attack": 15,
+            "cobblemon:attack": 20,
+            "cobblemon:hp": 29,
+            "cobblemon:defence": 25,
+            "cobblemon:special_defence": 25,
+            "cobblemon:speed": 20
+        },
+        "FaintedTimer": -1,
+        "DmaxLevel": 0,
+        "Evolutions": {
+            "progress": [],
+            "pending": []
+        },
+        "PokemonOriginalTrainer": "0551caec-10fa-4656-814c-2bf8dec6e792",
+        "Experience": 24389,
+        "Level": 29
+    },
+    "Slot0": {
+        "Tradeable": 1,
+        "PersistentData": {},
+        "Gender": "MALE",
+        "HealingTimer": -1,
+        "Friendship": 172,
+        "HeldItem": {
+            "id": "cobblemon:berry_juice",
+            "count": 1
+        },
+        "GmaxFactor": 0,
+        "CaughtBall": "cobblemon:love_ball",
+        "ScaleModifier": 1.0,
+        "Features": [
+            {
+                "cobblemon:feature_id": "mega",
+                "mega": 0
+            }
+        ],
+        "FormId": "normal",
+        "UUID": [
+            1382263642,
+            -1149808697,
+            -1359797244,
+            -73519509
+        ],
+        "Shiny": 0,
+        "Species": "cobblemon:lopunny",
+        "cobblemon:data_version": 1,
+        "Ability": {
+            "AbilityIndex": 1,
+            "AbilityName": "klutz"
+        },
+        "Nature": "cobblemon:careful",
+        "BenchedMoves": [
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "splash"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "pound"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "foresight"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "frustration"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "afteryou"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "quickattack"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "batonpass"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "return"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "magiccoat"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "rototiller"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "defensecurl"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "doublekick"
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "charm"
+            }
+        ],
+        "EVs": {
+            "cobblemon:special_attack": 0,
+            "cobblemon:attack": 0,
+            "cobblemon:hp": 0,
+            "cobblemon:defence": 0,
+            "cobblemon:special_defence": 0,
+            "cobblemon:speed": 0
+        },
+        "PokemonOriginalTrainerType": "PLAYER",
+        "Health": 84,
+        "TeraType": "cobblemon:normal",
+        "MoveSet": [
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "jumpkick",
+                "MovePP": 10
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "mirrorcoat",
+                "MovePP": 20
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "babydolleyes",
+                "MovePP": 30
+            },
+            {
+                "RaisedPPStages": 0,
+                "MoveName": "dizzypunch",
+                "MovePP": 10
+            }
+        ],
+        "IVs": {
+            "cobblemon:special_attack": 30,
+            "cobblemon:attack": 30,
+            "cobblemon:hp": 28,
+            "cobblemon:defence": 29,
+            "cobblemon:special_defence": 31,
+            "cobblemon:speed": 30
+        },
+        "FaintedTimer": -1,
+        "DmaxLevel": 0,
+        "Evolutions": {
+            "progress": [],
+            "pending": []
+        },
+        "PokemonOriginalTrainer": "0551caec-10fa-4656-814c-2bf8dec6e792",
+        "Experience": 24389,
+        "ForcedAspects": [
+            ""
+        ],
+        "Level": 29
+    }
+}
