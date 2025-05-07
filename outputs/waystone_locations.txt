@@ -1,0 +1,280 @@
+Waystones owned by UID starting with -577769114
+--------------------------------------------------
+Total waystones found: 55
+--------------------------------------------------
+
+Name: Raylorizur
+Coordinates: X=-2432, Y=63, Z=-4928
+World: minecraft:overworld
+Origin: WILDERNESS
+--------------------------------------------------
+Name: Breredmed
+Coordinates: X=-8825, Y=108, Z=-4439
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Crumiritron
+Coordinates: X=2051, Y=92, Z=2044
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Mrokairark
+Coordinates: X=4692, Y=85, Z=4976
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Zedirer
+Coordinates: X=-3676, Y=94, Z=-3187
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Reiredes
+Coordinates: X=-819, Y=72, Z=3247
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: far far far far away
+Coordinates: X=-12741, Y=118, Z=-25238
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: Zurmurure
+Coordinates: X=-3208, Y=69, Z=-9478
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Marzermed
+Coordinates: X=-10696, Y=72, Z=-16169
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Madcraes
+Coordinates: X=-4496, Y=81, Z=-11200
+World: minecraft:overworld
+Origin: WILDERNESS
+--------------------------------------------------
+Name: rayquaza
+Coordinates: X=-960, Y=75, Z=-5652
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: palkia 
+Coordinates: X=14731, Y=64, Z=-16856
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: Rairmur
+Coordinates: X=624, Y=65, Z=-1200
+World: minecraft:overworld
+Origin: WILDERNESS
+--------------------------------------------------
+Name: {"text":"Cairarc","extra":[" I"]}
+Coordinates: X=9600, Y=71, Z=9872
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: XP FARM
+Coordinates: X=-2845, Y=164, Z=-5590
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: Brecloed
+Coordinates: X=-3716, Y=82, Z=-10051
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: far away lands
+Coordinates: X=-7594, Y=72, Z=-19735
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: Madcraarc
+Coordinates: X=643, Y=76, Z=-6712
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: {"text":"Lukclomed","extra":[" I"]}
+Coordinates: X=-9695, Y=71, Z=-23114
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Mormurmed
+Coordinates: X=1309, Y=64, Z=-11208
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Zursorark
+Coordinates: X=-8592, Y=87, Z=-16048
+World: minecraft:overworld
+Origin: WILDERNESS
+--------------------------------------------------
+Name: Madaired
+Coordinates: X=-9588, Y=85, Z=-15868
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Zursorer
+Coordinates: X=8929, Y=65, Z=-14872
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Jarzerzur
+Coordinates: X=5879, Y=81, Z=6474
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Lukirarc
+Coordinates: X=-2490, Y=92, Z=-1192
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: {"text":"Reiirure","extra":[" I"]}
+Coordinates: X=-3232, Y=94, Z=-9232
+World: minecraft:overworld
+Origin: WILDERNESS
+--------------------------------------------------
+Name: Lukarktron
+Coordinates: X=7180, Y=82, Z=8429
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Cazerzur
+Coordinates: X=3266, Y=131, Z=-13998
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Zurmirider
+Coordinates: X=-10912, Y=127, Z=-5616
+World: minecraft:overworld
+Origin: WILDERNESS
+--------------------------------------------------
+Name: Madairure
+Coordinates: X=30, Y=82, Z=-6403
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Zedairark
+Coordinates: X=3456, Y=65, Z=-7328
+World: minecraft:overworld
+Origin: WILDERNESS
+--------------------------------------------------
+Name: Zurarkark
+Coordinates: X=-3828, Y=99, Z=-5629
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: latios & latias
+Coordinates: X=2369, Y=88, Z=-5720
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: Creozerarc
+Coordinates: X=-3264, Y=120, Z=-10128
+World: minecraft:overworld
+Origin: WILDERNESS
+--------------------------------------------------
+Name: Mrokmurd
+Coordinates: X=218, Y=72, Z=-6791
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: kyogre
+Coordinates: X=-2894, Y=67, Z=-1427
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: Azurcloder
+Coordinates: X=-8919, Y=110, Z=-15914
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: bagon spawn
+Coordinates: X=-1457, Y=74, Z=4004
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: Draksorark
+Coordinates: X=791, Y=78, Z=-6986
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Marmider
+Coordinates: X=2642, Y=79, Z=-13341
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: carbos station
+Coordinates: X=13753, Y=111, Z=-16649
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: woodland mansion area
+Coordinates: X=-8287, Y=116, Z=-15681
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: bagon spawn
+Coordinates: X=-4405, Y=152, Z=-5087
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: Cruurakmed
+Coordinates: X=3340, Y=94, Z=2636
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Zedmaracmed
+Coordinates: X=-11815, Y=90, Z=-24534
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: trials 
+Coordinates: X=-12790, Y=-19, Z=-25219
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: Luksalmard
+Coordinates: X=-1159, Y=140, Z=3992
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: base
+Coordinates: X=-2530, Y=79, Z=-2309
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: MINESPOT
+Coordinates: X=-1402, Y=100, Z=-8775
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: NARNIA BASE
+Coordinates: X=8809, Y=62, Z=-14922
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: adaadadad
+Coordinates: X=-8533, Y=80, Z=-16589
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: Zorkurakarc
+Coordinates: X=-3113, Y=76, Z=-8232
+World: minecraft:overworld
+Origin: VILLAGE
+--------------------------------------------------
+Name: Narnia
+Coordinates: X=-14345, Y=75, Z=-17799
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
+Name: Jagclomur
+Coordinates: X=-3360, Y=73, Z=-10000
+World: minecraft:overworld
+Origin: WILDERNESS
+--------------------------------------------------
+Name: dadada
+Coordinates: X=-1684, Y=65, Z=-4244
+World: minecraft:overworld
+Origin: PLAYER
+--------------------------------------------------
