@@ -1,7 +1,7 @@
 import nbtlib
 
 # Path to your NBT .dat file
-file_path = r'C:\cursor-workspace\cobblemon\dd8ff166-064a-4343-93d3-8baaa48dc9e5.dat'
+file_path = 'inputs/<PLAYER_UUID>.dat'
 
 # Load the NBT file (as a compound)
 nbt_data = nbtlib.load(file_path)

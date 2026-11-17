@@ -58,7 +58,7 @@ def read_waystones(file_path, output_file):
         print(f"An error occurred: {str(e)}")
 
 if __name__ == "__main__":
-    # Updated path to be relative to the cobblemon directory
+    # Replace with your own input/output paths
     file_path = "outputs/waystones.json"
     output_file = "outputs/waystone_locations.txt"
     read_waystones(file_path, output_file)

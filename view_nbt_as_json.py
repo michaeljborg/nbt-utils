@@ -2,17 +2,10 @@ import nbtlib
 import json
 import os
 
-# NBT files
+# NBT files to convert (replace with your own .dat file paths)
 nbt_files = [
-    #'C:\\cursor-workspace\\cobblemon\\inputs\\0551caec-10fa-4656-814c-2bf8dec6e792_M-PARTY.dat',
-    #'C:\\cursor-workspace\\cobblemon\\inputs\\0551caec-10fa-4656-814c-2bf8dec6e792_M-PC.dat',
-    #'C:\\cursor-workspace\\cobblemon\\inputs\\dd8ff166-064a-4343-93d3-8baaa48dc9e5_N-PARTY.dat',
-    #'C:\\cursor-workspace\\cobblemon\\inputs\\dd8ff166-064a-4343-93d3-8baaa48dc9e5_N-PC.dat',
-    #'C:\\cursor-workspace\\cobblemon\\inputs\\0cb67792-53d6-4fde-a10f-70ad0719792e_G-PARTY.dat',
-    #'C:\\cursor-workspace\\cobblemon\\inputs\\0cb67792-53d6-4fde-a10f-70ad0719792e_G-PC.dat',
-    #'C:\\cursor-workspace\\cobblemon\\inputs\\dd8ff166-064a-4343-93d3-8baaa48dc9e5_N-PC-FIXED.dat'
-    'C:\\cursor-workspace\\cobblemon\\inputs\\dd8ff166-064a-4343-93d3-8baaa48dc9e5 (1).dat',
-    'C:\\cursor-workspace\\cobblemon\\inputs\\dd8ff166-064a-4343-93d3-8baaa48dc9e5_cleaned.dat'
+    'inputs/<PLAYER_UUID>_PARTY.dat',
+    'inputs/<PLAYER_UUID>_PC.dat',
 ]
 
 os.makedirs('outputs', exist_ok=True)
@@ -35,7 +28,7 @@ for nbt_file_path in nbt_files:
     json_data = json.dumps(nbt_dict, indent=4)
 
     # Determine the output file name
-    output_file_name = os.path.join('outputs', nbt_file_path.split('\\')[-1].replace('.dat', '.json'))
+    output_file_name = os.path.join('outputs', os.path.basename(nbt_file_path).replace('.dat', '.json'))
 
     # Open a file to write the JSON data
     with open(output_file_name, 'w') as json_file:
